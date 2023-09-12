@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecureNotes</string>
+    <string name="add_note_description">Add new note</string>
+</resources>
